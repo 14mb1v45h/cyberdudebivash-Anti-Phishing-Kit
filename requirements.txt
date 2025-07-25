@@ -1,0 +1,8 @@
+# This app uses only standard Python libraries:
+# - tkinter (for GUI)
+# - re (for regex)
+# - urllib (for URL parsing)
+# - os (for file handling)
+
+# No external pip-installable dependencies required.
+# If tkinter is not available (uncommon), it's part of Python's standard library; install via your OS (e.g., apt install python3-tk).
